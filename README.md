@@ -1,2 +1,2 @@
 # golang-at-ocado
-A GoLang course in Ocado Technology
+A GoLang course at Ocado Technology
